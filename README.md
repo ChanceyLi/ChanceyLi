@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChanceyLi
-- 👀 I’m interested in Geshi
-- 🌱 I’m currently learning cv2
+- 👀 I’m interested in Geshin
+- 🌱 I’m currently learning cv2,path planning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
